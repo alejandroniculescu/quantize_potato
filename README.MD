@@ -75,3 +75,5 @@ This seems like an exercise in futility, but nonetheless benchmarks the progress
     ```
 
 Happy tinkering!
+
+Final Verdict - It's not very good, but this is nonetheless the right type of benchmark to run.  Next steps: I'll be buying 128GB+ Gbs of Ram to play with bigger engines for the time being.
