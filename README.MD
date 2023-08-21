@@ -6,7 +6,7 @@ This statement is the "Can it run Doom" equivalent for AI.
 
 This seems like an exercise in futility, but nonetheless benchmarks the progress of quantization techniques, as well as the portability of AI models to edge devices.
 
-![It works](./images/7B.png?raw=true "7B quantized to 4-bits running on a Raspberry Pi 4")
+![It works](./7B.png?raw=true "7B quantized to 4-bits running on a Raspberry Pi 4")
 
 ## Installation Steps
 
